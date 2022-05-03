@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
 
-import com.impakt.social.login.google.SocialLoginServlet;
+import com.impakt.social.login.servlet.SocialLoginServlet;
 
 @SpringBootApplication
 public class JavaSocialSignIn {

@@ -1,4 +1,4 @@
-package com.impakt.social.login.google;
+package com.impakt.social.login.servlet;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;

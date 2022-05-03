@@ -1,4 +1,4 @@
-<%@ page import="com.impakt.social.login.google.SocialLoginServlet" %>
+<%@ page import="com.impakt.social.login.servlet.SocialLoginServlet" %>
 <%@ page import="java.net.URLEncoder" %>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
          pageEncoding="ISO-8859-1" %>
